@@ -47,13 +47,15 @@ The model was evaluated using:
 - Pickle
 
 ## 📁 project files
+```text
 Rainfall-Prediction/
 │
 ├── Rainfall_Prediction.ipynb
 ├── rainfall.csv
 ├── model.pkl
 ├── app.py
-└── README.md 
+└── README.md
+```
 
 # 🌐 Streamlit Web App
 The trained Machine Learning model is connected to a Streamlit web application.
@@ -64,8 +66,16 @@ or
 It also displays the Rain Probability (%).
 
 # 🚀 How to Run
-Install the required libraries: pip install pandas numpy scikit-learn matplotlib streamlit 
-Run the Streamlit application: streamlit run app.py
+Install the required libraries: 
+
+```bash
+pip install pandas numpy scikit-learn matplotlib streamlit 
+```
+Run the Streamlit application: 
+
+```bash
+streamlit run app.py
+```
 
 # 📓 Jupyter Notebook
 The complete Machine Learning workflow was developed in Jupyter Notebook, including:
@@ -89,6 +99,5 @@ The complete Machine Learning workflow was developed in Jupyter Notebook, includ
 6. Cloud deployment
 
 # 👩‍💻 Author
-```text
 Shreya Kumari
 Python & ML Enthusiast
