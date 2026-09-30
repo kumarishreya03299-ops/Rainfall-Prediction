@@ -100,4 +100,3 @@ The complete Machine Learning workflow was developed in Jupyter Notebook, includ
 
 # 👩‍💻 Author
 Shreya Kumari
-Python & ML Enthusiast
